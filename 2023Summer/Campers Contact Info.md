@@ -11,9 +11,11 @@ Campers, email, Org, Calendar Invite Sent
 10.	Sourav Pal, sourav.pal@nih.gov, NCATS/DPI/ETB, Yes 6/7
 11.	Brittany Poeleart, brittany.poeleart@ncats.nih.gov, NCATS/DPI/ETB, Yes 6/7 
 12.	Temidayo Adegbenro, temidayo.adegbenro@nih.gov, NCATS/DPI/ETB, Yes 6/7
-13.	Cephas Afeke, cephas.afeke@nih.gov, NCATS/DPI/TDB, waitlist
-14.	Kathryn Gerrish, kathryn.gerrish@nih.gov, NCATS/DPI/DCF/RSC, waitlist 
-15.	Nate Hoxie, nate.hoxie@nih.gov, NCATS/DPI/DCF/RSC, waitlist
-16.	Ray Wang, ray.wang3@nih.gov, NCATS/DPI/TDB, waitlist
-17.	Keyla Tumas, keyla.tumas@nih.gov, NCATS/DPI/ETB, waitlist
-18. Jonathan Le, anh-tu.le@nih.gov, NCATS, waitlist
+13. Godwin Aizenofe, godwinnotwest@gmail.com, SIP, Yes, 6/9	
+14. Cephas Afeke, cephas.afeke@nih.gov, NCATS/DPI/TDB, waitlist
+15.	Kathryn Gerrish, kathryn.gerrish@nih.gov, NCATS/DPI/DCF/RSC, waitlist 
+16.	Nate Hoxie, nate.hoxie@nih.gov, NCATS/DPI/DCF/RSC, waitlist
+17.	Ray Wang, ray.wang3@nih.gov, NCATS/DPI/TDB, waitlist
+18.	Keyla Tumas, keyla.tumas@nih.gov, NCATS/DPI/ETB, waitlist
+19. Jonathan Le, anh-tu.le@nih.gov, NCATS/DPI/OSD, waitlist
+20. Glib Lirazan, glib.lirazan@nih.gov, NCATS/DPI/OSD, waitlist
