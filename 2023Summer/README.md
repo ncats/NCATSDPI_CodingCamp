@@ -48,4 +48,4 @@ Instructions on how to communicate via GitHub, Notebook Hub and Slack will be pr
 We've started a document to document some useful resources that related to programming.  Click [here](https://docs.google.com/document/d/1j8vNu_Dgr7mdwU48uRrAX1ZR81VdpdsCMFWC9sxkQw0/edit?usp=sharing) to access.
 
 ## Questions/Concerns?
-Please as on our Slack channel (2022_summer_coding_camp) or contact Andy (andrew.patt@nih.gov) or Ewy (ewy.mathe@nih.gov) directly.
+Please as on our Slack channel (2023_summer_coding_camp) or contact Andy (andrew.patt@nih.gov) directly.
