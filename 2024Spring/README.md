@@ -3,7 +3,7 @@
 ## Course Goals
 The goal of the camp is to provide assisted learning in the use of NCATS public resources.  The camp is intended for beginner or seasoned computational experts, and no previous experience is required.
 
-At the end of this course, participants will have been introduced to the following four resources andn will have learned how to use them in their research.
+At the end of this course, participants will have been introduced to the following four resources and will have learned how to use them in their research.
 
 - Rare Disease Alert System ([RDAS](https://rdas.ncats.nih.gov/)) –integrated, annotated, and standardized publication, funding, trial and epidemiological data related to rare disease data
 - [Pharos](https://pharos.ncats.nih.gov/) – aggregated and harmonized data for targets (proteins), diseases and ligands that represent the most common druggable targets with an emphasis on understudied proteins
