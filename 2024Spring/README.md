@@ -10,6 +10,8 @@ At the end of this course, participants will have been introduced to the followi
 - Relational Database of Metabolomic Pathways ([RaMP-DB](https://rampdb.nih.gov/) – explore 254,860 chemical structures, of which 43,338 are lipids, 15,389 genes, 53,745 pathways, 807,362 metabolic enzyme/metabolite reactions, and 699 ontologies
 - Global Substance Registration System ([GSRS](https://gsrs.ncats.nih.gov/)) & [Inxight Drugs](https://drugs.ncats.io/) – GSRS publishes 152,696 substances, manually curated and registered by the FDA, which is expanded on by Inxight Drugs to include activity data, adverse events, drug-drug interactions, toxicity, sourcing, publications, and application instructions
 
+Please see more information about those resources [here](https://github.com/ncats/IFX_Workshops_Tutorials/blob/main/202311_AMIA_Workshop/README.md).
+
 ## Course logistics
 ### Basic Schedule:
 Monday April 8th – full day (introduction and interactive tutorials on resources followed by defining projects)
