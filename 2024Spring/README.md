@@ -2,18 +2,27 @@
 
 ## Loose agenda:
 ### Monday
+
 Public session:
+
 9-9:05 : Welcome and Intro to Camp
+
 9:05-9:45 : Overview of the Rare Disease Alert System (RDAS)
+
 9:45-10:25 : Overview of Pharos
+
 10:25-10:30 : 5 min break
+
 10:30-11:10 : Overview of RaMP
+
 11:10-11:30 : Global Substance Registration System (GSRS)/Inxight
 
 *Official start of coding camp*
 
 11:30-12:30 : Introductions of campers and TAs. Discuss potential projects
+
 12:30-1:30 : Lunch
+
 1:30-5 : Continuation of project discussions and get started
 
 ### Tuesday
