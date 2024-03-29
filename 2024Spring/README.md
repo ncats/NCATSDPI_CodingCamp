@@ -14,9 +14,12 @@ Please see more introductory information on these resources [here](https://githu
 
 ## Course logistics
 ### Basic Schedule:
-Monday April 8th – full day (introduction and interactive tutorials on resources followed by defining projects)
-Wednesday April 10th – half day, morning (working on group projects with TA)
-Friday April 12th – half day, afternoon (presenting projects)
+
+- Monday April 8th – full day (introduction and interactive tutorials on resources followed by defining projects)
+
+- Wednesday April 10th – half day, morning (working on group projects with TA)
+
+- Friday April 12th – half day, afternoon (presenting projects)
 TAs are available to support campers outside of these times as well
 
 ### TAs:
@@ -26,5 +29,5 @@ GSRS: Jessica Maine, Keith Kelleher
 RaMP-DB: John Braisted, Andy Patt, Ewy Mathé
 
 ### Other Useful Info:
-Registration is on a first come first serve basis, we’re planning to support 15-20 participants.  The camp will start April 8th and end April 12th. 
+Registration is on a first come first serve basis, we’re planning to support 12 participants.  The camp will start April 8th and end April 12th. 
 Contact Ewy Mathé or Sarah Stemann if you have questions.
