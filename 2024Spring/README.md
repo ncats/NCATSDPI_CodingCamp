@@ -36,7 +36,7 @@ At the end of this course, participants will have been introduced to the followi
 - Rare Disease Alert System ([RDAS](https://rdas.ncats.nih.gov/)) –integrated, annotated, and standardized publication, funding, trial and epidemiological data related to rare disease data
 - [Pharos](https://pharos.ncats.nih.gov/) – aggregated and harmonized data for targets (proteins), diseases and ligands that represent the most common druggable targets with an emphasis on understudied proteins
 - Relational Database of Metabolomic Pathways ([RaMP-DB](https://rampdb.nih.gov/) – explore 254,860 chemical structures, of which 43,338 are lipids, 15,389 genes, 53,745 pathways, 807,362 metabolic enzyme/metabolite reactions, and 699 ontologies
-- Global Substance Registration System ([GSRS](https://gsrs.ncats.nih.gov/)) & [Inxight Drugs](https://drugs.ncats.io/) – GSRS publishes 152,696 substances, manually curated and registered by the FDA, which is expanded on by Inxight Drugs to include activity data, adverse events, drug-drug interactions, toxicity, sourcing, publications, and application instructions
+- Global Substance Registration System ([GSRS](https://gsrs.ncats.nih.gov/)) & [Inxight Drugs](https://drugs.ncats.io/) – GSRS publishes 156,828 substances, manually curated and registered by the FDA, which is expanded on by Inxight Drugs to include activity data, adverse events, drug-drug interactions, toxicity, sourcing, publications, and application instructions
 
 Please see more introductory information on these resources [here](https://github.com/ncats/IFX_Workshops_Tutorials/tree/main/202311_AMIA_Workshop/slides) and further information on their use [here](https://github.com/ncats/IFX_Workshops_Tutorials/blob/main/202311_AMIA_Workshop/README.md).
 
