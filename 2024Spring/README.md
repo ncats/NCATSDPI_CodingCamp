@@ -1,6 +1,6 @@
 # 2024 NCATS Spring Coding Camp - New Format!
 
-## Loose agenda:
+## Agenda:
 ### Monday
 
 Public session:
@@ -25,8 +25,7 @@ Public session:
 
 1:30-5 : Continuation of project discussions and get started
 
-### Tuesday
-TBD
+
 
 ## Course Goals
 The goal of the camp is to provide assisted learning in the use of NCATS public resources.  The camp is intended for beginner or seasoned computational experts, and no previous experience is required.
