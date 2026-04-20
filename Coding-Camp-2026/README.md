@@ -78,9 +78,6 @@ Below is the list of TAs for this session:
 - **Tanvi Patel** 
 - **Timothy Sheils**
 ---
-  Admin
-	**Arjun Singh Yadaw & Sarah Stemann**
-
 
 ## **Working Environment:**
-We will rely on Notebook Hub for programing and slack for communication through out this course. Our GitHub site is: https://github.com/ncats/2026SpringCodingCamp Our Slack Channel is on the NCATS instance and is called: 2026_spring_coding_camp. Contact Arjun Singh Yadaw or Sarah Stemann if you have questions.
+We will rely on Notebook Hub for programing and slack for communication through out this course. Our GitHub site is: https://github.com/ncats/2026SpringCodingCamp Our Slack Channel is on the NCATS instance and is called: 2026_spring_coding_camp. Contact Arjun Singh Yadaw if you have questions.
