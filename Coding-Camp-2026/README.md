@@ -24,8 +24,8 @@ The goal of the camp is to support participants in learning core coding concepts
 | **Week 4** | Thu, May 14, 2026<br>10:00–11:00 AM | Room 302B | Project work + TA support | **Pathway Analysis (30 min)** – Andy Patt |
 | **Week 5** | Thu, May 21, 2026<br>11:00 AM–12:00 PM | Room 377 | Project work + TA support | **RaMP-DB Overview (30 min)** – Ewy Mathé |
 | **Week 6** | Thu, May 28, 2026<br>3:00–4:00 PM | Room 377 | Finalize project, prep presentations | **NCATS Translator Utilities (40 min)** – Mark Williams |
-| **Week 7** | Thu, Jun 4, 2026<br>3:00–5:00 PM | Room 302A | Project presentations (Group 1) | **Campers:** B. Malique Jones, Eileen Wang, Godwin Aizenofe, Hongmao Sun, Julia Steiner Chulkova, Justine Noel |
-| **Week 8** | Thu, Jun 18, 2026<br>3:00–5:00 PM | Room 377 | Project presentations (Group 2) | **Campers:** Madeleine Barrett, Rahul Nandre, Tae Gyun Yang, Tej Poudel, Xing Chen, Zhenhua Wu |
+| **Week 7** | Thu, Jun 4, 2026<br>3:00–5:00 PM | Room 302A | Project presentations (Group 1) | **Campers:** B. Malique Jones, Eileen Wang, Godwin Aizenofe, Hongmao Sun, Julia Steiner Chulkova, Tej Poudel |
+| **Week 8** | Thu, Jun 18, 2026<br>3:00–5:00 PM | Room 377 | Project presentations (Group 2) | **Campers:** Madeleine Barrett, Rahul Nandre, Tae Gyun Yang, Xing Chen, Zhenhua Wu |
 
 ### **Why Join Coding Camp?**
 
